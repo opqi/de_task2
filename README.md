@@ -1,6 +1,7 @@
 # de_task2
 
 For db creation and initialization of the tables run:
+
 docker-compose up -d
 
 examples.sql contains query examples for aggregated_data table
